@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FootballApp</string>
+    <string name="general_error">Something went wrong</string>
+    <string name="http_error">Something went wrong: </string>
+    <string name="timeout_error">Something went wrong: Timeout</string>
+    <string name="io_error">Something went wrong: Check your network connection</string>
+    <string name="try_later">Try again later…</string>
+    <string name="emblem">Emblem</string>
+    <string name="coach">Coach</string>
+    <string name="stadium">Stadium</string>
+    <string name="favourite">Add this team to your favourites list</string>
+</resources>
