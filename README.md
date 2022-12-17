@@ -6,4 +6,4 @@ The project uses MVVM pattern, coroutines, recyclerView, Dagger Hilt, Retrofit, 
 
 Here's a preview:
 
-![Alt Text](https://drive.google.com/file/d/1_A1-V0ZjC_WFOHpGF7gnC8EeS31e1RS1/view?usp=share_link)
+![Alt Text](https://i.imgur.com/ZocMjwg.gif)
